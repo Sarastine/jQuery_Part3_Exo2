@@ -1,0 +1,43 @@
+body {
+	background-color: #333;
+}
+h1, h2 {
+	color: #080;
+	text-align: center;
+}
+.Button{
+	background-color: #222;
+	color: #080;
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-top: 5px;
+	border: solid 2px #484;
+	border-radius: 5px;
+	min-width: 100px;
+}
+.Button:hover{
+	background-color: #080;
+	color: #222 !important;
+}
+#Counter {
+	min-width: 100px;
+	min-height: 40px;
+	background-color: #555;
+	border: 5px solid #DDD;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: auto;
+	padding-bottom: auto;
+	font-weight: bold;
+	color: #0C0;
+	font-family: 'courier new';
+	font-size: 75px;
+	margin-top: 10px;
+}
+.Center {
+	text-align: center;
+	margin-top: 10px;
+}
+.Test {
+	border: 3px solid #FF0;
+}
